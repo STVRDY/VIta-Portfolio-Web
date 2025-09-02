@@ -22,20 +22,19 @@ function ProjectCard({ project, onClick }: ProjectCardProps) {
     >
       <img
         src={project.thumbnail}
-        alt={`Miniatura del proyecto ${project.slug}`}
+        alt={`Miniatura del proyecto ${project.title}`} // <-- Usa 'title'
         className="absolute inset-0 w-full h-full object-cover transition-opacity duration-300 opacity-20 group-hover:opacity-10"
         loading="lazy"
       />
-
       <div className="relative z-10">
         <div>
           <p className="text-crt-amber font-bold text-sm">&gt; FILE: {project.slug || `project-0${project.id}`}.dat</p>
-          <h3 className="font-bold text-lg mt-2 truncate group-hover:text-crt-black">{project.slug}</h3>
+          <h3 className="font-bold text-lg mt-2 truncate group-hover:text-crt-black">{project.title}</h3> {/* <-- Usa 'title' */}
         </div>
         <div>
           <p className="text-sm text-crt-blue mt-1">TYPE: [{project.category.toUpperCase()}]</p>
-          <p className="text-xs mt-4 opacity-0 group-hover:opacity-100 transition-opacity">
-            // press ENTER to open
+          <p className="text-xs mt-4 opacity-0 group-hover:opacity-100 transition-opacity duration-200">
+             // press ENTER to open
           </p>
         </div>
       </div>
