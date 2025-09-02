@@ -1,0 +1,345 @@
+[
+  {
+    "id": 1,
+    "slug": "Fotografias",
+    "title": "Sauce League",
+    "category": "Fotografía",
+    "thumbnail": "/assets/images/Signature.webp",
+    "description": "Sauce League - Jugadas del Partido",
+    "role": "Fotografo",
+    "stack": ["Adobe Photoshop", "Adobe Lightroom"],
+    "date": "30/8/2025",
+    "nota": "Esto no es una representacion de la calidad final.",
+    "gallery": [
+      {
+        "src": "/assets/images/Signature.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/Cross_kyrie_son.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/kinki_stop!.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/Fault_ar.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/Speed_ar.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/the_big_3.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/b&w_kyrie_son.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/Mojicas.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/kinki_timeStop.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/kinki_lightflash.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/kinki_threetimes3.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/rodri_flying.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/ar_fault_bowser.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/johndoe_freepoint_line.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/johndoe_intheair.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/team_red_outtafocus.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm 4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      },
+      {
+        "src": "/assets/images/it_game_time.webp",
+        "metadata": {
+          "Cámara": "ILCE-6000 SONY",
+          "Formato": "RAW",
+          "Lente": "18-55mm f/4.5",
+          "Resolución": "2642x3786 px",
+          "Ubicación": "Santo Domingo, Unión Panamericana",
+          "Software": "Adobe Lightroom",
+          "Notas": "Versión final retocada"
+        }
+      }
+    ],
+    "projectUrl": "https://www.instagram.com/sauceleagueoficial/"
+  },
+  {
+    "id": 2,
+    "slug": "cortometraje-urbano-nocturno",
+    "title": "Cortometraje Urbano Nocturno",
+    "category": "Video",
+    "thumbnail": "/assets/images/placeholder.png",
+    "description": "Edición, montaje y colorización de un cortometraje documental que explora la vida nocturna de la ciudad a través de sus protagonistas anónimos. Se buscó una estética cinematográfica y evocadora.",
+    "role": "Editor & Colorista",
+    "stack": ["Adobe Premiere Pro", "DaVinci Resolve", "After Effects"],
+    "date": "Q4 2023",
+    "gallery": [
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Cámara": "Sony A7S III",
+          "Formato": "4K RAW",
+          "Duración": "12 min",
+          "Software": "DaVinci Resolve",
+          "Colorización": "Cine LUT personalizada"
+        }
+      }
+    ],
+    "projectUrl": "https://www.youtube.com/your-channel"
+  },
+  {
+    "id": 3,
+    "slug": "fotografia-producto-cosmetica",
+    "title": "Fotografía de Producto Cosmética",
+    "category": "Fotografía",
+    "thumbnail": "/assets/images/placeholder.png",
+    "description": "Dirección de arte y ejecución de una sesión fotográfica para una nueva línea de productos de cosmética vegana. El enfoque se centró en la limpieza, la simplicidad y las texturas naturales.",
+    "role": "Fotógrafo & Director de Arte",
+    "stack": ["Canon EOS R5", "Adobe Lightroom", "Adobe Photoshop"],
+    "date": "Q1 2024",
+    "gallery": [
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Cámara": "Canon EOS R5",
+          "Lente": "100mm Macro f/2.8",
+          "Resolución": "8192x5464 px",
+          "Iluminación": "Softbox + Reflector",
+          "Software": "Adobe Lightroom"
+        }
+      },
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Cámara": "Canon EOS R5",
+          "Lente": "50mm f/1.2",
+          "Formato": "RAW",
+          "Ubicación": "Estudio",
+          "Notas": "Prueba de textura en sombra"
+        }
+      },
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Cámara": "Canon EOS R5",
+          "Formato": "RAW",
+          "Resolución": "6720x4480 px",
+          "Software": "Adobe Photoshop",
+          "Notas": "Versión editada"
+        }
+      }
+    ],
+    "projectUrl": null
+  },
+  {
+    "id": 4,
+    "slug": "modelo-3d-asset-publicitario",
+    "title": "Modelo 3D Conceptual",
+    "category": "3D",
+    "thumbnail": "/assets/images/placeholder.png",
+    "description": "Creación de un asset 3D de alta calidad para una campaña publicitaria de una marca de bebidas energéticas. El proceso incluyó modelado, texturizado, iluminación y renderizado final.",
+    "role": "Artista 3D",
+    "stack": ["Blender", "Substance Painter", "Marmoset Toolbag"],
+    "date": "Q3 2023",
+    "gallery": [
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Software 3D": "Blender",
+          "Render Engine": "Cycles",
+          "Polígonos": "120k",
+          "Texturizado": "Substance Painter",
+          "Resolución Render": "3840x2160 px"
+        }
+      }
+    ],
+    "projectUrl": null
+  },
+  {
+    "id": 5,
+    "slug": "rediseño-app-movil-fintech",
+    "title": "Rediseño App Móvil",
+    "category": "Diseño",
+    "thumbnail": "/assets/images/placeholder.png",
+    "description": "Investigación de usuario (UX) y diseño de interfaz (UI) para la nueva versión de una aplicación de finanzas personales, mejorando la usabilidad y la experiencia general del usuario.",
+    "role": "UX/UI Designer",
+    "stack": ["Figma", "Maze", "Jira"],
+    "date": "Q1 2024",
+    "gallery": [
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Software": "Figma",
+          "Formato": "Prototipo interactivo",
+          "Resolución": "375x812 px (iPhone X)",
+          "Notas": "Test A/B en Maze con 50 usuarios"
+        }
+      },
+      {
+        "src": "/assets/images/placeholder-large.png",
+        "metadata": {
+          "Software": "Figma",
+          "Color Palette": "Fintech Blue",
+          "Tipografía": "Inter",
+          "Notas": "UI refinada después de feedback"
+        }
+      }
+    ],
+    "projectUrl": null
+  }
+]
