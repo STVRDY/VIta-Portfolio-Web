@@ -18,7 +18,11 @@ export default function PortfolioSection({ projects, onProjectClick }: Portfolio
     <SectionWrapper id="portfolio" title="DIRECTORY: /PROJECTS">
       <div className="flex justify-center flex-wrap gap-2 mb-12">
         {categories.map(cat => (
-          <button key={cat} onClick={() => setActiveFilter(cat)} className={`px-4 py-1 border transition-colors duration-200 ${activeFilter === cat ? 'bg-crt-green text-crt-black' : 'border-crt-green'}`}>
+          <button
+            key={cat}
+            onClick={() => setActiveFilter(cat)}
+            className={`px-4 py-1 border transition-colors duration-200 ${activeFilter === cat ? 'bg-crt-green text-crt-black' : 'border-crt-green'}`}
+          >
             {cat}
           </button>
         ))}
